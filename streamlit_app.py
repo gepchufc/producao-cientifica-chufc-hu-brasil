@@ -67,7 +67,20 @@ with visao:
     st.plotly_chart(fig,use_container_width=True,config={'displayModeBar':False})
     st.caption('O ano em andamento ainda não está completo. Mudanças na cobertura das fontes também afetam a série.')
     table=crescimento.rename(columns={'ano':'Ano','artigos':'Artigos distintos','crescimento_pct':'Variação anual (%)'})
-    st.dataframe(table.sort_values('Ano',ascending=False),use_container_width=True,hide_index=True)
+    tabela_exibicao = table.sort_values("Ano", ascending=False).copy()
+
+    coluna = "Variação anual (%)"
+
+    tabela_exibicao[coluna] = tabela_exibicao[coluna].map(
+        lambda valor: f"{valor:.1f}".replace(".", ",")
+        if pd.notna(valor) else "—"
+    )
+    
+    st.dataframe(
+        tabela_exibicao,
+        width="stretch",
+        hide_index=True
+    )
     st.download_button('Exportar indicadores anuais (CSV)',table.to_csv(index=False).encode('utf-8-sig'),
        'producao_anual_chufc.csv','text/csv')
 with comparacao:
