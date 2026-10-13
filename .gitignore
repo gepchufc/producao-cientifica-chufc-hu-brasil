@@ -1,0 +1,16 @@
+# Evita inclusão acidental de bancos de dados, arquivos individuais e segredos
+*.sqlite
+*.sqlite3
+*.db
+*.xlsx
+*.xls
+*.csv
+*.env
+.streamlit/secrets.toml
+__pycache__/
+.venv/
+venv/
+*.pyc
+*.log
+.DS_Store
+!data/indicadores_agregados.json

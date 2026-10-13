@@ -1,0 +1,450 @@
+{
+  "metadados": {
+    "projeto": "Produção Científica CH-UFC/HU Brasil",
+    "tipo": "agregado_sem_registros_individuais",
+    "ultima_coleta_concluida_utc": "2026-10-09T18:17:34+00:00",
+    "criterio": "Afiliação hospitalar explícita em registros bibliográficos",
+    "total_artigos_distintos": 894,
+    "observacoes": [
+      "A soma por instituição pode exceder o total consolidado por haver vínculos múltiplos.",
+      "Contagens de afiliações não comprovam uso de dados assistenciais.",
+      "O ano corrente é parcial."
+    ]
+  },
+  "serie_anual": [
+    {
+      "ano": 1993,
+      "artigos": 1
+    },
+    {
+      "ano": 1994,
+      "artigos": 1
+    },
+    {
+      "ano": 1996,
+      "artigos": 3
+    },
+    {
+      "ano": 1997,
+      "artigos": 1
+    },
+    {
+      "ano": 1998,
+      "artigos": 4
+    },
+    {
+      "ano": 1999,
+      "artigos": 5
+    },
+    {
+      "ano": 2000,
+      "artigos": 2
+    },
+    {
+      "ano": 2001,
+      "artigos": 3
+    },
+    {
+      "ano": 2002,
+      "artigos": 4
+    },
+    {
+      "ano": 2003,
+      "artigos": 5
+    },
+    {
+      "ano": 2004,
+      "artigos": 5
+    },
+    {
+      "ano": 2005,
+      "artigos": 13
+    },
+    {
+      "ano": 2006,
+      "artigos": 16
+    },
+    {
+      "ano": 2007,
+      "artigos": 10
+    },
+    {
+      "ano": 2008,
+      "artigos": 21
+    },
+    {
+      "ano": 2009,
+      "artigos": 14
+    },
+    {
+      "ano": 2010,
+      "artigos": 18
+    },
+    {
+      "ano": 2011,
+      "artigos": 16
+    },
+    {
+      "ano": 2012,
+      "artigos": 8
+    },
+    {
+      "ano": 2013,
+      "artigos": 13
+    },
+    {
+      "ano": 2014,
+      "artigos": 18
+    },
+    {
+      "ano": 2015,
+      "artigos": 30
+    },
+    {
+      "ano": 2016,
+      "artigos": 41
+    },
+    {
+      "ano": 2017,
+      "artigos": 38
+    },
+    {
+      "ano": 2018,
+      "artigos": 43
+    },
+    {
+      "ano": 2019,
+      "artigos": 53
+    },
+    {
+      "ano": 2020,
+      "artigos": 63
+    },
+    {
+      "ano": 2021,
+      "artigos": 60
+    },
+    {
+      "ano": 2022,
+      "artigos": 76
+    },
+    {
+      "ano": 2023,
+      "artigos": 60
+    },
+    {
+      "ano": 2024,
+      "artigos": 81
+    },
+    {
+      "ano": 2025,
+      "artigos": 94
+    },
+    {
+      "ano": 2026,
+      "artigos": 74
+    }
+  ],
+  "ano_instituicao": [
+    {
+      "ano": 1993,
+      "unidade": "HUWC",
+      "artigos": 1
+    },
+    {
+      "ano": 1994,
+      "unidade": "HUWC",
+      "artigos": 1
+    },
+    {
+      "ano": 1996,
+      "unidade": "HUWC",
+      "artigos": 3
+    },
+    {
+      "ano": 1997,
+      "unidade": "HUWC",
+      "artigos": 1
+    },
+    {
+      "ano": 1998,
+      "unidade": "HUWC",
+      "artigos": 4
+    },
+    {
+      "ano": 1999,
+      "unidade": "HUWC",
+      "artigos": 5
+    },
+    {
+      "ano": 2000,
+      "unidade": "HUWC",
+      "artigos": 2
+    },
+    {
+      "ano": 2001,
+      "unidade": "HUWC",
+      "artigos": 3
+    },
+    {
+      "ano": 2002,
+      "unidade": "HUWC",
+      "artigos": 4
+    },
+    {
+      "ano": 2003,
+      "unidade": "HUWC",
+      "artigos": 4
+    },
+    {
+      "ano": 2003,
+      "unidade": "MEAC",
+      "artigos": 1
+    },
+    {
+      "ano": 2004,
+      "unidade": "HUWC",
+      "artigos": 5
+    },
+    {
+      "ano": 2005,
+      "unidade": "HUWC",
+      "artigos": 10
+    },
+    {
+      "ano": 2005,
+      "unidade": "MEAC",
+      "artigos": 3
+    },
+    {
+      "ano": 2006,
+      "unidade": "HUWC",
+      "artigos": 13
+    },
+    {
+      "ano": 2006,
+      "unidade": "MEAC",
+      "artigos": 3
+    },
+    {
+      "ano": 2007,
+      "unidade": "HUWC",
+      "artigos": 9
+    },
+    {
+      "ano": 2007,
+      "unidade": "MEAC",
+      "artigos": 1
+    },
+    {
+      "ano": 2008,
+      "unidade": "HUWC",
+      "artigos": 21
+    },
+    {
+      "ano": 2009,
+      "unidade": "HUWC",
+      "artigos": 13
+    },
+    {
+      "ano": 2009,
+      "unidade": "MEAC",
+      "artigos": 1
+    },
+    {
+      "ano": 2010,
+      "unidade": "HUWC",
+      "artigos": 16
+    },
+    {
+      "ano": 2010,
+      "unidade": "MEAC",
+      "artigos": 2
+    },
+    {
+      "ano": 2011,
+      "unidade": "HUWC",
+      "artigos": 12
+    },
+    {
+      "ano": 2011,
+      "unidade": "MEAC",
+      "artigos": 4
+    },
+    {
+      "ano": 2012,
+      "unidade": "HUWC",
+      "artigos": 8
+    },
+    {
+      "ano": 2012,
+      "unidade": "MEAC",
+      "artigos": 1
+    },
+    {
+      "ano": 2013,
+      "unidade": "HUWC",
+      "artigos": 11
+    },
+    {
+      "ano": 2013,
+      "unidade": "MEAC",
+      "artigos": 2
+    },
+    {
+      "ano": 2014,
+      "unidade": "HUWC",
+      "artigos": 17
+    },
+    {
+      "ano": 2014,
+      "unidade": "MEAC",
+      "artigos": 1
+    },
+    {
+      "ano": 2015,
+      "unidade": "HUWC",
+      "artigos": 29
+    },
+    {
+      "ano": 2015,
+      "unidade": "MEAC",
+      "artigos": 1
+    },
+    {
+      "ano": 2016,
+      "unidade": "HUWC",
+      "artigos": 33
+    },
+    {
+      "ano": 2016,
+      "unidade": "MEAC",
+      "artigos": 8
+    },
+    {
+      "ano": 2017,
+      "unidade": "HUWC",
+      "artigos": 34
+    },
+    {
+      "ano": 2017,
+      "unidade": "MEAC",
+      "artigos": 4
+    },
+    {
+      "ano": 2018,
+      "unidade": "HUWC",
+      "artigos": 34
+    },
+    {
+      "ano": 2018,
+      "unidade": "MEAC",
+      "artigos": 9
+    },
+    {
+      "ano": 2019,
+      "unidade": "HUWC",
+      "artigos": 44
+    },
+    {
+      "ano": 2019,
+      "unidade": "MEAC",
+      "artigos": 9
+    },
+    {
+      "ano": 2020,
+      "unidade": "HUWC",
+      "artigos": 50
+    },
+    {
+      "ano": 2020,
+      "unidade": "MEAC",
+      "artigos": 14
+    },
+    {
+      "ano": 2021,
+      "unidade": "CH-UFC",
+      "artigos": 1
+    },
+    {
+      "ano": 2021,
+      "unidade": "HUWC",
+      "artigos": 50
+    },
+    {
+      "ano": 2021,
+      "unidade": "MEAC",
+      "artigos": 11
+    },
+    {
+      "ano": 2022,
+      "unidade": "HUWC",
+      "artigos": 60
+    },
+    {
+      "ano": 2022,
+      "unidade": "MEAC",
+      "artigos": 18
+    },
+    {
+      "ano": 2023,
+      "unidade": "CH-UFC",
+      "artigos": 2
+    },
+    {
+      "ano": 2023,
+      "unidade": "HUWC",
+      "artigos": 49
+    },
+    {
+      "ano": 2023,
+      "unidade": "MEAC",
+      "artigos": 9
+    },
+    {
+      "ano": 2024,
+      "unidade": "CH-UFC",
+      "artigos": 6
+    },
+    {
+      "ano": 2024,
+      "unidade": "HUWC",
+      "artigos": 70
+    },
+    {
+      "ano": 2024,
+      "unidade": "MEAC",
+      "artigos": 6
+    },
+    {
+      "ano": 2025,
+      "unidade": "CH-UFC",
+      "artigos": 2
+    },
+    {
+      "ano": 2025,
+      "unidade": "HUWC",
+      "artigos": 76
+    },
+    {
+      "ano": 2025,
+      "unidade": "MEAC",
+      "artigos": 16
+    },
+    {
+      "ano": 2026,
+      "unidade": "CH-UFC",
+      "artigos": 1
+    },
+    {
+      "ano": 2026,
+      "unidade": "HUWC",
+      "artigos": 67
+    },
+    {
+      "ano": 2026,
+      "unidade": "MEAC",
+      "artigos": 7
+    }
+  ]
+}
