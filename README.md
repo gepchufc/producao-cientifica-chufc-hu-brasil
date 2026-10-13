@@ -1,5 +1,9 @@
 # Produção Científica CH-UFC / HU Brasil
 
+### Dashboard online
+
+[Acessar o painel de Produção Científica CH-UFC / HU Brasil](https://bibliometria-chufc-hu-brasil.streamlit.app/)
+
 Painel público de indicadores bibliométricos agregados da produção científica identificada por afiliação ao Hospital Universitário Walter Cantídio (HUWC), à Maternidade-Escola Assis Chateaubriand (MEAC) e ao Complexo Hospitalar da Universidade Federal do Ceará (CH-UFC).
 
 ## Escopo público
